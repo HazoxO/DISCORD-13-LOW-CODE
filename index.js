@@ -1,7 +1,7 @@
 const aoijs = require("aoi.js") // 引入aoi.js
 
 const AntonioMLZ = new aoijs.Bot({
-token: "OTgxNzcwMTkxMDE0ODc5MjMy.Gs2-9t.fqNcbPKtuoMtaOEhiAvpHx8IiQZ2B0bcPrnopk", // token
+token: "TUTOKEN", // token
 prefix: "!", // prefix
 intents: ["GUILDS", "GUILD_MESSAGES"]
 })
