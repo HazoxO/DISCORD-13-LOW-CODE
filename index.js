@@ -1,6 +1,6 @@
 const aoijs = require("aoi.js") // 引入aoi.js
 
-const AntonioMLZ = new aoijs.Bot({
+const bot = new aoijs.Bot({ //la constante bot lo puedes cambiar por cualquier cosa. al igual el bot.command => loquepusistedeconts.command
 token: "TUTOKEN", // token
 prefix: "!", // prefix
 intents: ["GUILDS", "GUILD_MESSAGES"]
