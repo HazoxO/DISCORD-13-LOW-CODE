@@ -16,7 +16,8 @@
 [aoijs-server-url]: https://discord.com/invite/964sU7VdxJ
 
   </div>
-  ##Installation
+  
+ ## Instalacion
 
 [Documentacion de AOI,JS](https://aoi.leref.ga/#/)
 
