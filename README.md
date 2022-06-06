@@ -16,7 +16,7 @@
 [aoijs-server-url]: https://discord.com/invite/964sU7VdxJ
 
   </div>
-  ## Installation
+  ##Installation
 
 **node.js 16.6.0 or newer is required.**  
 
