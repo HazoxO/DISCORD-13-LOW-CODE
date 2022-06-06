@@ -18,8 +18,8 @@
   </div>
   ##Installation
 
-<p>Documentacion de AOI.js</p>
-https://aoi.leref.ga/#/ 
+[Documentacion de AOI,JS](https://aoi.leref.ga/#/)
+
 
 **node.js 16.6.0 or newer is required.**  
 
